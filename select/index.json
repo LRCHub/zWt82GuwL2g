@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "glow",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-04T09:19:56.242196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glow",
+      "artist": "Drake feat. Kanye West",
+      "has_synced": true,
+      "path": "select/01_Glow_Drake_feat._Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Glow (feat. Kanye West)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Glow_(feat._Kanye_West)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Glow",
+      "artist": "Kelis feat. Raphael Saadiq",
+      "has_synced": true,
+      "path": "select/03_Glow_Kelis_feat._Raphael_Saadiq.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Glow",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/04_Glow_Kelis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Glow & Behold",
+      "artist": "Yuck",
+      "has_synced": true,
+      "path": "select/05_Glow_&_Behold_Yuck.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "the Glow",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/06_the_Glow_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Glow Pt. 2",
+      "artist": "The Microphones",
+      "has_synced": true,
+      "path": "select/07_The_Glow_Pt._2_The_Microphones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Watch the Glow",
+      "artist": "Museum of Bellas Artes",
+      "has_synced": true,
+      "path": "select/08_Watch_the_Glow_Museum_of_Bellas_Artes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Glow",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/09_Glow_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Glow",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/10_Glow_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Glow",
+      "artist": "Okkervil River",
+      "has_synced": true,
+      "path": "select/11_A_Glow_Okkervil_River.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ima Glow",
+      "artist": "Smrtdeath",
+      "has_synced": false,
+      "path": "select/12_Ima_Glow_Smrtdeath.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Glow",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/13_Glow_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Glow (Hybrid Mix)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/14_Glow_(Hybrid_Mix)_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Glow (Hybrid remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/15_Glow_(Hybrid_remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Glow - 12\" Version; 2010 Remaster",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/16_Glow_-_12__Version;_2010_Remaster_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Glow (12'' Version)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/17_Glow_(12''_Version)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "glow (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_glow_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.txt"
+    }
+  ]
+}
